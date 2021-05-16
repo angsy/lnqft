@@ -1,6 +1,6 @@
 [package]
 name = "lnqft"
-version = "0.1.0-alpha.1"
+version = "0.1.0-alpha.2"
 authors = ["angsy <65333430+angsy@users.noreply.github.com>"]
 edition = "2018"
 

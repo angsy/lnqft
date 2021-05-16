@@ -10,8 +10,8 @@ A simple local network quick file transfer (lnqft) application for devices conne
   * Run the file lnqft.exe located in the folder "lnqft\target\release" and follow the on screen instruction(s).
 
 ## Version(s)
-* 0.1.0-alpha.1
+* 0.1.0-alpha.2
 
 ## Side note(s)
-* Network function still haven't being implemented.
+* Basic network function implemented, however the code need further improvement.
 * Future security risk need to be mitigated.
